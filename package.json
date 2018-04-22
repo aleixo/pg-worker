@@ -1,0 +1,16 @@
+{
+  "name": "pg-worker",
+  "version": "0.0.2",
+  "description": "Utility class to handle pg module",
+  "main": "DatabaseWorker.js",
+  "repository": "https://github.com/aleixo/pg-worker",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
